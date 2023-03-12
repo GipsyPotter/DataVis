@@ -1,0 +1,103 @@
+,Name,Age,Math,English,History,Result
+0,Eric,19,2.0,4.6,8.9,PASS
+1,Thu,47,4.1,5.8,0.0,NOT PASS
+2,Potter,59,6.8,0.6,5.1,NOT PASS
+3,Potterio,36,8.7,2.0,6.4,PASS
+4,Tom,60,9.8,0.8,2.0,NOT PASS
+5,Eric,50,6.5,9.8,4.2,PASS
+6,DoubleDev,28,7.8,7.3,9.8,PASS
+7,Potter,28,9.1,0.5,8.8,PASS
+8,Thu,52,2.7,0.6,9.9,NOT PASS
+9,Steidernman,38,1.5,9.7,6.2,PASS
+10,DoubleDev,26,0.8,5.5,8.4,NOT PASS
+11,Tom,43,7.9,6.7,6.9,PASS
+12,Eric,31,2.7,2.9,0.6,NOT PASS
+13,Eric,30,5.3,0.5,6.9,NOT PASS
+14,Steidernman,40,0.7,2.7,4.4,NOT PASS
+15,Potter,42,7.6,5.9,0.7,NOT PASS
+16,Potter,31,9.0,1.1,1.6,NOT PASS
+17,Potter,58,2.9,3.0,9.5,PASS
+18,David,23,1.3,4.7,1.4,NOT PASS
+19,Potterio,60,4.7,7.6,4.5,PASS
+20,Steidernman,43,2.9,6.1,1.6,NOT PASS
+21,Potterio,44,8.7,8.9,2.8,PASS
+22,Potter,51,6.7,0.3,0.7,NOT PASS
+23,Thu,24,4.8,9.3,4.0,PASS
+24,Potter,26,8.3,5.5,5.8,PASS
+25,Steidernman,35,2.2,5.3,2.3,NOT PASS
+26,Peter,45,9.0,4.7,5.5,PASS
+27,Peter,26,7.6,6.4,1.6,PASS
+28,Potter,19,9.0,9.8,4.5,PASS
+29,Potter,47,1.9,9.6,9.8,PASS
+30,Peter,60,3.0,3.7,5.6,NOT PASS
+31,David,26,6.4,8.1,7.6,PASS
+32,Eric,48,6.3,3.3,1.7,NOT PASS
+33,Peter,44,3.5,3.2,5.0,NOT PASS
+34,Tom,29,1.1,5.1,9.4,PASS
+35,David,24,8.4,7.4,3.8,PASS
+36,Katio,19,3.3,3.8,5.3,NOT PASS
+37,David,18,6.4,0.4,3.8,NOT PASS
+38,Tom,50,1.6,3.7,5.0,NOT PASS
+39,Potter,38,1.8,0.1,6.0,NOT PASS
+40,Potter,59,8.2,8.4,1.8,PASS
+41,Potterio,56,3.2,8.2,3.5,NOT PASS
+42,Steidernman,20,0.9,3.3,2.2,NOT PASS
+43,Katio,47,2.9,3.7,3.1,NOT PASS
+44,David,32,9.1,5.7,5.5,PASS
+45,Thu,25,2.7,8.6,4.3,PASS
+46,Katio,29,8.4,1.8,1.9,NOT PASS
+47,Thu,55,0.0,5.1,4.2,NOT PASS
+48,Potterio,18,4.1,1.1,1.3,NOT PASS
+49,Steidernman,59,9.6,5.2,8.5,PASS
+50,Steidernman,48,9.7,0.9,4.2,NOT PASS
+51,DoubleDev,38,9.9,2.3,7.4,PASS
+52,Potter,56,4.1,2.2,0.2,NOT PASS
+53,Potter,46,0.4,3.8,3.0,NOT PASS
+54,Katio,39,5.3,6.4,0.3,NOT PASS
+55,Thu,50,8.8,8.6,4.0,PASS
+56,David,24,3.2,1.9,7.9,NOT PASS
+57,David,46,0.7,8.2,0.4,NOT PASS
+58,Thu,43,1.6,7.2,6.6,PASS
+59,Steidernman,51,0.5,3.8,0.4,NOT PASS
+60,Steidernman,57,0.1,5.4,9.5,PASS
+61,Potter,54,1.5,3.1,0.7,NOT PASS
+62,Katio,56,3.4,9.3,6.8,PASS
+63,Peter,28,3.9,6.0,1.8,NOT PASS
+64,Tom,57,7.0,8.1,8.3,PASS
+65,DoubleDev,25,9.6,6.3,5.8,PASS
+66,Potter,40,10.0,7.7,3.7,PASS
+67,Potterio,55,6.3,0.6,9.5,PASS
+68,Thu,34,3.1,0.7,7.2,NOT PASS
+69,David,53,1.1,1.6,3.5,NOT PASS
+70,Peter,46,4.8,1.7,0.6,NOT PASS
+71,Thu,40,6.4,7.5,9.2,PASS
+72,Tom,23,9.8,6.4,8.7,PASS
+73,Tom,44,0.9,6.2,1.3,NOT PASS
+74,Potter,48,5.2,3.7,7.7,PASS
+75,Katio,59,0.5,2.3,4.1,NOT PASS
+76,Potterio,26,5.4,1.3,8.0,NOT PASS
+77,Steidernman,44,3.7,6.8,5.1,PASS
+78,Potter,23,6.5,7.5,9.1,PASS
+79,Potterio,29,2.8,2.3,2.0,NOT PASS
+80,David,18,4.7,6.8,9.8,PASS
+81,Steidernman,44,6.4,2.6,9.0,PASS
+82,DoubleDev,45,2.5,8.9,9.5,PASS
+83,Potterio,48,3.7,2.9,0.0,NOT PASS
+84,Katio,59,6.4,4.9,5.5,PASS
+85,Thu,44,8.2,4.6,0.4,NOT PASS
+86,Thu,46,4.6,1.3,8.7,NOT PASS
+87,Potter,57,8.1,7.8,2.4,PASS
+88,Peter,32,9.2,3.0,3.4,PASS
+89,DoubleDev,22,9.9,5.8,4.4,PASS
+90,DoubleDev,36,4.1,4.8,1.7,NOT PASS
+91,Steidernman,53,3.9,5.6,0.4,NOT PASS
+92,Potterio,41,7.1,9.6,8.3,PASS
+93,Peter,46,0.8,9.4,5.6,PASS
+94,Steidernman,54,0.2,10.0,7.0,PASS
+95,Potterio,59,6.2,7.8,5.1,PASS
+96,Tom,47,9.9,7.6,3.7,PASS
+97,Katio,46,1.7,3.5,5.5,NOT PASS
+98,Steidernman,33,1.5,0.5,0.9,NOT PASS
+99,Katio,48,4.4,8.6,1.1,NOT PASS
+100,Potterio,32,7.5,7.4,3.9,PASS
+101,Porter,16,9.0,10.0,10.0,PASS
