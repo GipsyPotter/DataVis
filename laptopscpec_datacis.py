@@ -62,7 +62,7 @@ def highlight_top3(grouped_df):
     plt.show()
 
 
-def main():
+if __name__ == '__main__':
     # Importing the dataset
     dataset = pd.read_csv('complete laptop data0.csv', encoding='unicode_escape')
 
